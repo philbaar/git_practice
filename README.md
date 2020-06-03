@@ -1,2 +1,2 @@
 # git_practice
- training rep
+This is a training repository
